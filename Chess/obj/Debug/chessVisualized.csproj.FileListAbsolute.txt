@@ -1,0 +1,52 @@
+C:\AI\chessVisualized\bin\Debug\chessVisualized.exe.config
+C:\AI\chessVisualized\bin\Debug\chessVisualized.exe
+C:\AI\chessVisualized\bin\Debug\chessVisualized.pdb
+C:\AI\chessVisualized\obj\Debug\chessVisualized.csprojResolveAssemblyReference.cache
+C:\AI\chessVisualized\obj\Debug\chessVisualized.Form1.resources
+C:\AI\chessVisualized\obj\Debug\chessVisualized.Properties.Resources.resources
+C:\AI\chessVisualized\obj\Debug\chessVisualized.csproj.GenerateResource.Cache
+C:\AI\chessVisualized\obj\Debug\chessVisualized.exe
+C:\AI\chessVisualized\obj\Debug\chessVisualized.pdb
+E:\labi po sharpam\chessVisualized\bin\Debug\chessVisualized.exe.config
+E:\labi po sharpam\chessVisualized\bin\Debug\chessVisualized.exe
+E:\labi po sharpam\chessVisualized\bin\Debug\chessVisualized.pdb
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.csproj.AssemblyReference.cache
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.csproj.SuggestedBindingRedirects.cache
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.Form1.resources
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.Properties.Resources.resources
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.csproj.GenerateResource.cache
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.csproj.CoreCompileInputs.cache
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.exe
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.pdb
+E:\labi po sharpam\chessVisualized\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Buffers.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Memory.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Numerics.Vectors.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Text.Encodings.Web.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Text.Json.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.ValueTuple.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Buffers.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Memory.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Numerics.Vectors.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Text.Encodings.Web.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Text.Json.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.ValueTuple.xml
+E:\labi po sharpam\chessVisualized\obj\Debug\chessVisualized.csproj.CopyComplete
+E:\labi po sharpam\chessVisualized\bin\Debug\Aspose.Cells.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\Aspose.Cells.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\Serializer.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\Serializer.pdb
+E:\labi po sharpam\chessVisualized\bin\Debug\EntityFramework.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\EntityFramework.SqlServer.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\SQLitePCLRaw.core.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Data.SQLite.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Data.SQLite.EF6.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Data.SQLite.Linq.dll
+E:\labi po sharpam\chessVisualized\bin\Debug\EntityFramework.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\EntityFramework.SqlServer.xml
+E:\labi po sharpam\chessVisualized\bin\Debug\System.Data.SQLite.xml

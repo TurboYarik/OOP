@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="chessVisualized.scoredmove">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chessVisualized.possibleMove">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chessVisualized.move">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chessVisualized.piece">
+    <Position X="5.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chessVisualized.chess">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAggCEACCAUEAAAABQAACEQJMBMIgQEAAAAAk=</HashCode>
+      <FileName>chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
